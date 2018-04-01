@@ -1,0 +1,67 @@
+---
+title: DxM - Miscellaneous
+categories:
+  - gallery
+tags:
+  - dxm
+
+header:
+  overlay_image: /assets/images/galleries/dxm_misc/1933979.jpg
+  teaser: /assets/images/galleries/dxm_misc/1933979.jpg
+  show_overlay_excerpt: false
+
+hidden: true
+
+gallery:
+  - url: /assets/images/galleries/dxm_misc/1933979.jpg
+    image_path: /assets/images/galleries/dxm_misc/1933979.jpg
+  - url: /assets/images/galleries/dxm_misc/1933981.jpg
+    image_path: /assets/images/galleries/dxm_misc/1933981.jpg
+  - url: /assets/images/galleries/dxm_misc/1933982.jpg
+    image_path: /assets/images/galleries/dxm_misc/1933982.jpg
+  - url: /assets/images/galleries/dxm_misc/1947348.jpg
+    image_path: /assets/images/galleries/dxm_misc/1947348.jpg
+  - url: /assets/images/galleries/dxm_misc/1948618.jpg
+    image_path: /assets/images/galleries/dxm_misc/1948618.jpg
+  - url: /assets/images/galleries/dxm_misc/1948639.jpg
+    image_path: /assets/images/galleries/dxm_misc/1948639.jpg
+  - url: /assets/images/galleries/dxm_misc/1949083.jpg
+    image_path: /assets/images/galleries/dxm_misc/1949083.jpg
+  - url: /assets/images/galleries/dxm_misc/1961546.jpg
+    image_path: /assets/images/galleries/dxm_misc/1961546.jpg
+  - url: /assets/images/galleries/dxm_misc/2007775.jpg
+    image_path: /assets/images/galleries/dxm_misc/2007775.jpg
+  - url: /assets/images/galleries/dxm_misc/2007784.jpg
+    image_path: /assets/images/galleries/dxm_misc/2007784.jpg
+  - url: /assets/images/galleries/dxm_misc/2007789.jpg
+    image_path: /assets/images/galleries/dxm_misc/2007789.jpg
+  - url: /assets/images/galleries/dxm_misc/2015527.jpg
+    image_path: /assets/images/galleries/dxm_misc/2015527.jpg
+  - url: /assets/images/galleries/dxm_misc/2284591.jpg
+    image_path: /assets/images/galleries/dxm_misc/2284591.jpg
+  - url: /assets/images/galleries/dxm_misc/2284593.jpg
+    image_path: /assets/images/galleries/dxm_misc/2284593.jpg
+  - url: /assets/images/galleries/dxm_misc/2350068.jpg
+    image_path: /assets/images/galleries/dxm_misc/2350068.jpg
+  - url: /assets/images/galleries/dxm_misc/2350231.jpg
+    image_path: /assets/images/galleries/dxm_misc/2350231.jpg
+  - url: /assets/images/galleries/dxm_misc/2350236.jpg
+    image_path: /assets/images/galleries/dxm_misc/2350236.jpg
+  - url: /assets/images/galleries/dxm_misc/2350238.jpg
+    image_path: /assets/images/galleries/dxm_misc/2350238.jpg
+  - url: /assets/images/galleries/dxm_misc/2350239.jpg
+    image_path: /assets/images/galleries/dxm_misc/2350239.jpg
+  - url: /assets/images/galleries/dxm_misc/2350287.jpg
+    image_path: /assets/images/galleries/dxm_misc/2350287.jpg
+  - url: /assets/images/galleries/dxm_misc/2350319.jpg
+    image_path: /assets/images/galleries/dxm_misc/2350319.jpg
+  - url: /assets/images/galleries/dxm_misc/2354524.jpg
+    image_path: /assets/images/galleries/dxm_misc/2354524.jpg
+  - url: /assets/images/galleries/dxm_misc/2861760.jpg
+    image_path: /assets/images/galleries/dxm_misc/2861760.jpg
+  - url: /assets/images/galleries/dxm_misc/2861764.jpg
+    image_path: /assets/images/galleries/dxm_misc/2861764.jpg
+  - url: /assets/images/galleries/dxm_misc/2862224.jpg
+    image_path: /assets/images/galleries/dxm_misc/2862224.jpg
+---
+{% include gallery %}

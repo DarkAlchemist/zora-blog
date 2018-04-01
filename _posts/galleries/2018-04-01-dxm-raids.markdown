@@ -1,0 +1,53 @@
+---
+title: DxM - Raids
+categories: 
+  - gallery
+tags:
+  - dxm
+
+header:
+  overlay_image: /assets/images/galleries/dxm_raids/1933978.jpg
+  teaser: /assets/images/galleries/dxm_raids/1933978.jpg
+  show_overlay_excerpt: false
+
+hidden: true
+
+gallery:
+  - url: /assets/images/galleries/dxm_raids/1933978.jpg
+    image_path: /assets/images/galleries/dxm_raids/1933978.jpg
+  - url: /assets/images/galleries/dxm_raids/1933983.jpg
+    image_path: /assets/images/galleries/dxm_raids/1933983.jpg
+  - url: /assets/images/galleries/dxm_raids/1933984.jpg
+    image_path: /assets/images/galleries/dxm_raids/1933984.jpg
+  - url: /assets/images/galleries/dxm_raids/1947038.jpg
+    image_path: /assets/images/galleries/dxm_raids/1947038.jpg
+  - url: /assets/images/galleries/dxm_raids/1947311.jpg
+    image_path: /assets/images/galleries/dxm_raids/1947311.jpg
+  - url: /assets/images/galleries/dxm_raids/1947313.jpg
+    image_path: /assets/images/galleries/dxm_raids/1947313.jpg
+  - url: /assets/images/galleries/dxm_raids/1947347.jpg
+    image_path: /assets/images/galleries/dxm_raids/1947347.jpg
+  - url: /assets/images/galleries/dxm_raids/1953876.jpg
+    image_path: /assets/images/galleries/dxm_raids/1953876.jpg
+  - url: /assets/images/galleries/dxm_raids/2027612.jpg
+    image_path: /assets/images/galleries/dxm_raids/2027612.jpg
+  - url: /assets/images/galleries/dxm_raids/2029728.jpg
+    image_path: /assets/images/galleries/dxm_raids/2029728.jpg
+  - url: /assets/images/galleries/dxm_raids/2029731.jpg
+    image_path: /assets/images/galleries/dxm_raids/2029731.jpg
+  - url: /assets/images/galleries/dxm_raids/2308842.jpg
+    image_path: /assets/images/galleries/dxm_raids/2308842.jpg
+  - url: /assets/images/galleries/dxm_raids/2350227.jpg
+    image_path: /assets/images/galleries/dxm_raids/2350227.jpg
+  - url: /assets/images/galleries/dxm_raids/2350235.jpg
+    image_path: /assets/images/galleries/dxm_raids/2350235.jpg
+  - url: /assets/images/galleries/dxm_raids/2350240.jpg
+    image_path: /assets/images/galleries/dxm_raids/2350240.jpg
+  - url: /assets/images/galleries/dxm_raids/2535509.jpg
+    image_path: /assets/images/galleries/dxm_raids/2535509.jpg
+  - url: /assets/images/galleries/dxm_raids/2861761.jpg
+    image_path: /assets/images/galleries/dxm_raids/2861761.jpg
+  - url: /assets/images/galleries/dxm_raids/2861763.jpg
+    image_path: /assets/images/galleries/dxm_raids/2861763.jpg
+---
+{% include gallery %}
