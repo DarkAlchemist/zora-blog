@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 email: zora@zora-ojisan.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.zora-ojisan.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.zora-ojisan.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: darkalchemist/zora-blog
 
 # Build settings
@@ -45,11 +45,11 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Zora's Gaming Blog"
+title                    : "Uncle Zor's Otaku Blog"
 title_separator          : "-"
 name                     : "Zoralyr"
 description              : ""
@@ -131,16 +131,19 @@ author:
   name             : "Zoralyr"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "Cerberus (EU) Server [FFXIV]"
+  location         :
   email            : "zora@zora-ojisan.com"
-  uri              : "http://www.zora-ojisan.com"
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
+  anilist          : "Zoralyr"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
+  ffxiv            : 
+    lodestone_id   : "7153385"
   github           : 
   gitlab           :
   google_plus      :
@@ -151,7 +154,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  steam            : "Zoralyr" # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
   vine             :

@@ -1,0 +1,20 @@
+{% if author.anilist %}
+  <li>
+    <a href="https://anilist.co/user/{{ author.anilist }}/animelist" itemprop="sameAs">
+      <i class="fas fa-fw fa-link" aria-hidden="true"></i> AniList: Anime
+    </a>
+  </li>
+  <li>
+    <a href="https://anilist.co/user/{{ author.anilist }}/mangalist" itemprop="sameAs">
+      <i class="fas fa-fw fa-link" aria-hidden="true"></i> AniList: Manga
+    </a>
+  </li>
+{% endif %}
+
+{% if author.ffxiv %}
+  <li>
+    <a href="https://eu.finalfantasyxiv.com/lodestone/character/{{ author.ffxiv.lodestone_id }}/" itemprop="sameAs">
+    <i class="fas fa-fw fa-link" aria-hidden="true"></i> Final Fantasy XIV
+    </a>
+  </li>
+{% endif %}
