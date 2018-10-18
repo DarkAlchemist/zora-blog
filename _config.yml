@@ -52,7 +52,7 @@ locale                   : "en-GB"
 title                    : "Uncle Zor's Otaku Blog"
 title_separator          : "-"
 name                     : "Zoralyr"
-description              : ""
+description              : "Video games, cosplay, otakudom generally"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
