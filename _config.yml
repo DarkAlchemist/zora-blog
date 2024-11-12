@@ -16,7 +16,7 @@
 email: zora@zora-ojisan.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.zora-ojisan.com" # the base hostname & protocol for your site, e.g. http://example.com
-repository: darkalchemist/zora-blog
+repository: 
 
 # Build settings
 markdown: kramdown
